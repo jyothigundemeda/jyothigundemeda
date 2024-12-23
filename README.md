@@ -2,11 +2,11 @@
 
 - 🚀 Innovative and passionate Software Developer hailing from Guntur District, Andhra Pradesh, India 🇮🇳. Welcome aboard my GitHub journey!
 
-- 🔭 Currently crafting fullstack magic ✨, enhancing my skills in Machine Learning ..
+- 🔭 Currently crafting fullstack magic ✨, enhancing my skills in devops amd  Mern stack ..
   
-- 🌱 Delving into the realms of Machine Learning, MERN stack, Python, and mastering Data Structures.
+- 🌱 Delving into the realms of Machine devops, MERN stack, Python, and mastering Data Structures.
  
-- 👯 Open to collaborations on exciting to connect or involve with start up and innovative solutions.
+- 👯 Open to collaborations on exciting to connect or involve with internships , start up and innovative solutions.
   
 - 💬 Dive into the world of Coding and Machine Learning with me - I'm all ears for your questions and discussions!
   
