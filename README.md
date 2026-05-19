@@ -1,56 +1,100 @@
 # Hi there, I'm Jyothi Nageswari Gundemeda 👋
 
-🎓 B.Tech CSE (AI & DS) | 💻 Full Stack Developer | ⚙️ DevOps Enthusiast  
-📍 Guntur, Andhra Pradesh, India | 🌐 Open to internships and tech collaborations
+🎓 B.Tech CSE (AI & DS) |🤖 AI Intern | 💻 Full Stack Developer | ⚙️ DevOps Enthusiast  
+📍 Guntur, Andhra Pradesh, India 
+🌐 🌐 Open to internships, collaborations, and exciting tech opportunities
+🚀 Passionate about AI, Cloud Computing, DevOps, and Scalable Web Applications
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a driven and detail-oriented software developer with a passion for building scalable web applications and automating infrastructure. With hands-on experience as a **DevOps Intern at PGSN Inc.**, I've worked with **Azure**, **Terraform**, **CI/CD pipelines**, and cloud-native technologies. I also specialize in **MERN stack development**, and continuously explore areas like **machine learning** and **cloud automation**.
+I'm a passionate and detail-oriented software developer with hands-on experience in Full Stack Development, Cloud Infrastructure, DevOps Automation, and AI-driven solutions.
+
+Currently, I'm working as an AI Intern at AnandPag, where I'm exploring Generative AI, RAG (Retrieval-Augmented Generation), intelligent workflows, and API integrations.
+
+Previously, as a DevOps Intern at PGSN Inc., I worked on deploying and automating cloud-native infrastructure using Azure, Terraform, and CI/CD pipelines.
+
+I enjoy solving real-world problems through code, building scalable applications, and continuously learning emerging technologies.
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, JavaScript 
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js  
-- **Database Technologies:** MongoDB, MySQL  
-- **DevOps & Cloud:**  
-  - Azure (AKS, App Service, Storage, Networking)  
-  - Terraform (modular structure for IAC)  
-  - Azure DevOps (CI/CD pipelines)  
-  - Linux, PowerShell, Git & GitHub  
+🛠️ Tech Stack
+💻 Programming Languages
+Python
+JavaScript
+🌐 Web Development
+HTML5
+CSS3
+React.js
+🗄️ Databases
+MongoDB
+MySQL
+☁️ Cloud, DevOps & AI
+Microsoft Azure
+Google Cloud Platform (GCP)
+Terraform
+Azure DevOps
+CI/CD Pipelines
+Linux
+PowerShell
+Git & GitHub
+Retrieval-Augmented Generation (RAG)
+Generative AI (GenAI)
+SAP (Basics)
 
 ---
 
-## 🔍 Key Projects
+# 🚀 Featured Projects
+🔧 Azure Infrastructure Provisioning using Terraform
+Built reusable Terraform modules for Azure services
+Provisioned AKS clusters, App Services, NSGs, and networking resources
+Automated deployments using Azure DevOps CI/CD pipelines
 
-- **🔧 Azure Infrastructure Provisioning (Terraform)**  
-  - Created reusable Terraform modules to provision Azure services including AKS clusters, App Services, and NSGs  
-  - Automated deployments using CI/CD pipelines in Azure DevOps  
+🌐 GIPHY Search Web App
+Built using JavaScript and Fetch API
+Integrated GIPHY API for real-time GIF search
+Deployed on Vercel
 
-- **🌐 GIPHY Search Web App**  
-  - A JavaScript-based web app using Fetch API, deployed on Vercel  
+🧠 Red Wine Quality Predictor
+Machine Learning project using Python and Scikit-Learn
+Implemented predictive modeling and data preprocessing techniques
 
-- **🧠 Red Wine Quality Predictor**  
-  - A machine learning project using Python and Scikit-Learn for predictive modeling  
+🪪 Student ID Card Generator & Phonebook App
+Developed using Python and web technologies
+Built as part of Global Coding Club tasks
 
-- **🪪 Student ID Card Generator & Phonebook App**  
-  - Developed with Python and web technologies as part of Global Coding Club tasks  
+📄 Portfolio Website (MERN Stack)
+Designed in Figma and developed using React.js, Node.js, Express.js, and MongoDB
+Fully responsive portfolio showcasing projects and skills
+ 
 
-- **📄 Portfolio Website (MERN Stack)**  
-  - Designed in Figma, built and deployed using React.js, Node.js, MongoDB, and Express
+📋 JIRA Project Management Website
+
+* Developed a responsive project management web application inspired by JIRA
+* Implemented task tracking, issue management, and workflow organization features
+* Built using modern web technologies with user-friendly UI/UX
+* Improved collaboration and task monitoring through organized dashboards
 
 ---
 
 ## 📈 Professional Experience
+🤖 AI Intern — AnandPag
 
-**DevOps Intern – PGSN Inc.**  
-*January 2025 – July 2025*  
-- Built and managed CI/CD pipelines using Azure DevOps  
-- Wrote modular Terraform code to deploy and configure cloud infrastructure on Azure  
-- Gained exposure to Linux administration, scripting with PowerShell, and deployment automation
+📅 Present
+
+Working on AI-based solutions and intelligent workflows
+Exploring Retrieval-Augmented Generation (RAG) and Generative AI applications
+Integrating APIs and automation workflows for AI systems
+Collaborating on scalable AI-driven projects and research
+⚙️ DevOps Intern — PGSN Inc.
+
+📅 January 2025 – July 2025
+
+Built and managed CI/CD pipelines using Azure DevOps
+Developed modular Terraform code for Azure infrastructure deployment
+Worked with Linux administration and PowerShell scripting
+Automated cloud deployment workflows and infrastructure provisioning
 
 ---
 
